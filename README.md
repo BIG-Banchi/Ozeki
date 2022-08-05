@@ -1,3 +1,5 @@
 banchi.txt
 
-ika-gyosenです。
+ika-gyosen です。
+
+👍
